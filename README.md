@@ -196,6 +196,23 @@ examples/                a minimal expressive manifest
 tests/                   workflow tests
 ```
 
+## Citation
+
+If you use Emilia2-Pipe, please cite
+[the Emilia2 paper](https://arxiv.org/abs/2611.13614):
+
+```bibtex
+@misc{ni2026emilia2,
+  title={Emilia2: A Large-Scale Dataset for Controllable Long-Form Speech Generation},
+  author={Qinke Ni and Dekun Chen and Junwen Qiu and Huan Liao and Xu Li and Xingwen Han and Wan Lin and Kunyu Feng and Yuxiang Wang and Yusheng Mu and Chaoren Wang and Yingda Shen and Mingjie Chen and Haolong Zheng and Xulin Fan and Mark A. Hasegawa-Johnson and Zhizheng Wu},
+  year={2026},
+  eprint={2611.13614},
+  archivePrefix={arXiv},
+  primaryClass={eess.AS},
+  url={https://arxiv.org/abs/2611.13614},
+}
+```
+
 ## License
 
 Apache-2.0. See [LICENSE](LICENSE).
