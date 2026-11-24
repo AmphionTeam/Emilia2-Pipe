@@ -1,0 +1,4 @@
+# Environment for the optional `emilia2-firered` pass.
+# On top of a working torch install:
+kaldi_native_fbank
+kaldiio
